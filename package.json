@@ -1,0 +1,15 @@
+{
+  "name": "zadanie-domowe-1",
+  "version": "1.0.0",
+  "description": "Zadanie domowe 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Michał W.",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
